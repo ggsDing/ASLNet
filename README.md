@@ -3,4 +3,4 @@
 
 ![alt text](https://github.com/ggsDing/ASLNet/blob/main/FlowChart.png)
 
-codes to be available soon
+codes will be available soon

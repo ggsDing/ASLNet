@@ -4,4 +4,4 @@ Pytorch codes of 'Adversarial Shape Learning for Building Extraction in VHR Remo
 ![alt text](https://github.com/ggsDing/ASLNet/blob/main/Objective.png)
 ![alt text](https://github.com/ggsDing/ASLNet/blob/main/FlowChart.png)
 
-(Codes under construction, not final yet)
+(This repository is under construction, contents are not final)

@@ -183,9 +183,9 @@ class DeformConv2d(nn.Module):
 
         return x_offset
 
-class FCN_SR(nn.Module):
+class ASLNet(nn.Module):
     def __init__(self, in_channels=3, num_classes=1, pretrained=True):
-        super(FCN_SR, self).__init__()
+        super(ASLNet, self).__init__()
         self.FCN = FCN_res34(in_channels, num_classes, pretrained)
                 
         self.low = nn.Sequential(nn.Conv2d(64, 64, kernel_size=1, stride=1, padding=0, bias=False),

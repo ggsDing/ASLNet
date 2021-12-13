@@ -19,7 +19,9 @@ working_path = os.path.dirname(os.path.abspath(__file__))
 
 #######################################################
 from datasets import Building_Inria as RS
+#ED-FCN
 from models.ED_FCN import ED_FCN as Seg_Net
+#ED-FCN with shape regularization modules
 #from models.FCN_SR import FCN_SR as Seg_Net
 from models.discriminator import FCDiscriminator as D_Net
 NET_NAME = 'ED_FCN_adv'

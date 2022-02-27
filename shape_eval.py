@@ -87,8 +87,8 @@ def eval_shape(pred_map, GT_map):
     
 
 if __name__ == '__main__':
-    pred_dir = '/home/yliu/leiding/BuildingExtraction/Data/pred'
-    GT_dir = '/home/yliu/leiding/BuildingExtraction/Data/GT'
+    pred_dir = 'YOUR_PREDICTION_DIR'
+    GT_dir = 'YOUR_GT_DIR'
     
     score = []
     data_list = os.listdir(pred_dir)   

@@ -4,5 +4,3 @@ Pytorch codes for:
 
 ![alt text](https://github.com/ggsDing/ASLNet/blob/main/Objective.png)
 ![alt text](https://github.com/ggsDing/ASLNet/blob/main/FlowChart.png)
-
-(This repository is under construction, contents are not final)
